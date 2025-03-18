@@ -1,0 +1,39 @@
+.courses {
+  padding: 45px 0px;
+  background-color: black;
+}
+
+.courses .section-title {
+  margin-bottom: 45px;
+  text-align: center;
+  color: white;
+}
+
+.courses .css-pn23ng {
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  margin-bottom: 4px;
+}
+
+.css-2xargn {
+  margin: 0px 4px 0px 0px;
+  font: var(--cds-typography-subtitle-medium);
+  letter-spacing: var(--cds-letter-spacing-minus30);
+  color: var(--cds-color-neutral-primary);
+}
+
+.card-body span {
+  font-size: 18px;
+  color: black;
+  font-weight: 700;
+}
+
+.card-body input {
+  margin: 15px 0px;
+  width: 100%;
+  padding: 10px;
+  border: none;
+  background-color: rgb(26, 26, 207);
+  color: white;
+}
